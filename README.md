@@ -1,2 +1,6 @@
-# desafio-de-projeto-1
-Desafio 1 - Criando meu primeiro repositorio no GitHub para compartilhar meu progresso.
+## Primeiro desafio de Projeto
+
+Criando **primeiro** repositório no GitHub para compartilhar meu progresso.
+
+Execução de todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+
